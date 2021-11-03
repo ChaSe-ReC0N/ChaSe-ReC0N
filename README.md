@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and 3D works
 - 🌱 I’m currently learning Python,C,HTML,CSS,Js
 - 💞️ I’m looking to collaborate on ML,AI,3D works,etc..
-- 📫 How to reach me at @Akshay_Chase ontwitter
+- 📫 How to reach me at @Akshay_Chase on twitter
 
 <!---
 ChaSe-ReC0N/ChaSe-ReC0N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
