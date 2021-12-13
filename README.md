@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaSe-ReC0N
 - 👀 I’m interested in Coding and 3D works
-- 🌱 I’m currently learning Python,C,C++,HTML,CSS,Js
-- 💞️ I’m looking to collaborate on ML,AI,3D works,etc..
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me at @Akshay_Chase on twitter
 
 <!---
