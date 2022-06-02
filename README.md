@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaSe-ReC0N
-- 👀 I’m interested in Coding and 3D works
+- 👀 I’m interested in Coding and 3D Projects
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me at @Akshay_Chase on twitter
